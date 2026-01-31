@@ -398,3 +398,253 @@ A **hacker** is a person who uses technical skills to:
 
 ---
 ---
+
+---
+
+## Practice MCQs
+
+<details>
+<summary>📘 Show MCQs</summary>
+
+### Q1. What is hacking in the cybersecurity context?
+
+- Developing secure software
+- Gaining unauthorized access to systems or data
+- Managing network devices
+- Encrypting sensitive information
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Gaining unauthorized access to systems or data
+
+</details>
+
+---
+
+### Q2. Which best describes the literal meaning of hacking?
+
+- Writing malicious code
+- Breaking security policies
+- Cutting or breaking something using sheer force
+- Accessing databases
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Cutting or breaking something using sheer force
+
+</details>
+
+---
+
+### Q3. Who is a hacker?
+
+- A person who only performs illegal activities
+- A person who uses technical skills to access or test systems
+- A network administrator
+- A software user
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** A person who uses technical skills to access or test systems
+
+</details>
+
+---
+
+### Q4. Which type of hacker is legally authorized to test system security?
+
+- Black Hat Hacker
+- Gray Hat Hacker
+- White Hat Hacker
+- Script Kiddie
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** White Hat Hacker
+
+</details>
+
+---
+
+### Q5. Which hacker uses ready-made tools with limited technical knowledge?
+
+- Hacktivist
+- Script Kiddie
+- Cyberterrorist
+- Insider Threat
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Script Kiddie
+
+</details>
+
+---
+
+### Q6. Which hacker group is employed by governments for cyber warfare?
+
+- Gray Hat Hackers
+- Cyberterrorists
+- State-Sponsored Hackers
+- Hacktivists
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** State-Sponsored Hackers
+
+</details>
+
+---
+
+### Q7. Advanced Persistent Threats (APT) are characterized by:
+
+- Random and short-term attacks
+- Long-term, targeted, and stealthy attacks
+- Attacks only using malware
+- Attacks performed by insiders only
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Long-term, targeted, and stealthy attacks
+
+</details>
+
+---
+
+### Q8. Which of the following is an example of malware?
+
+- Phishing
+- Trojan
+- Rogue access point
+- Social engineering
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Trojan
+
+</details>
+
+---
+
+### Q9. Phishing attacks primarily aim to:
+
+- Disrupt network services
+- Physically damage systems
+- Trick users into revealing sensitive information
+- Exploit hardware failures
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Trick users into revealing sensitive information
+
+</details>
+
+---
+
+### Q10. What is the main goal of a Denial-of-Service (DoS) attack?
+
+- Steal confidential data
+- Modify system files
+- Make a service unavailable
+- Gain administrator access
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Make a service unavailable
+
+</details>
+
+---
+
+### Q11. Which attack involves intercepting communication between two parties?
+
+- SQL Injection
+- Man-in-the-Middle (MitM)
+- Phishing
+- Malware
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Man-in-the-Middle (MitM)
+
+</details>
+
+---
+
+### Q12. What does a vulnerability represent?
+
+- A potential attacker
+- A weakness in a system
+- A type of malware
+- A security policy
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** A weakness in a system
+
+</details>
+
+---
+
+### Q13. Which term refers to the malicious code delivered during an attack?
+
+- Exploit
+- Payload
+- Threat
+- Risk
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Payload
+
+</details>
+
+---
+
+### Q14. Personally Identifiable Information (PII) includes:
+
+- Malware source code
+- Encryption algorithms
+- Name, Aadhaar, PAN, email, phone number
+- Network bandwidth details
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Name, Aadhaar, PAN, email, phone number
+
+</details>
+
+---
+
+### Q15. Which impact of hacking involves lawsuits and regulatory penalties?
+
+- Financial impact
+- Operational impact
+- Legal impact
+- Reputational impact
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Legal impact
+
+</details>
+
+</details>
+
+---
+---
