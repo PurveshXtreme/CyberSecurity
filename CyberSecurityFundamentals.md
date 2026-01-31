@@ -290,3 +290,109 @@ A healthcare organization encrypting patient records:
 
 ---
 ---
+
+# Hacking and Cyber Threats
+
+## What is Hacking?
+
+**Hacking** means doing something in an unconventional way or using a shortcut to achieve a goal.
+
+### In cybersecurity context:
+- Gaining unauthorized access to systems, networks, or data
+- Exploiting weaknesses in software, hardware, or human behavior
+
+### Literal Meaning:
+- Cutting or breaking something using sheer force
+- In computing, it refers to breaking security controls
+
+---
+
+## Who is a Hacker?
+
+A **hacker** is a person who uses technical skills to:
+- Access systems
+- Test security
+- Exploit vulnerabilities (legally or illegally)
+
+---
+
+## Types of Hackers
+
+| Type | Description |
+|----|------------|
+| Black Hat Hackers | Malicious hackers who break into systems illegally to steal data, spread malware, or cause damage |
+| White Hat Hackers | Ethical hackers authorized to test security and help organizations fix vulnerabilities |
+| Gray Hat Hackers | Act between black hat and white hat; may hack without permission but not for malicious intent |
+| Script Kiddies | Beginners who use ready-made tools or scripts with limited technical knowledge |
+| Suicidal Hackers | Hack without caring about consequences; focus on destruction or attention |
+| State-Sponsored Hackers | Hackers employed by governments for cyber espionage or cyber warfare |
+| Cyberterrorists | Use hacking to create fear or disruption, targeting critical infrastructure |
+| Hacktivists | Hack for political or social causes such as protests or ideology |
+| Insider Threats | Employees or trusted insiders who abuse legitimate access |
+| Advanced Persistent Threat (APT) | Highly skilled attackers who target specific organizations and remain hidden for long periods |
+
+---
+
+## Common Cyber Threats
+
+| Threat | Description |
+|------|-------------|
+| Malware | Malicious software including viruses, worms, ransomware, and trojans |
+| Phishing | Fake emails or messages used to steal passwords and credit card details |
+| Physical Theft | Devices such as laptops, USB drives, or phones being stolen or lost |
+| Social Engineering | Manipulating people into revealing confidential information |
+| Denial-of-Service (DoS) | Overloading systems or networks to make services unavailable |
+| Man-in-the-Middle (MitM) | Intercepting and altering communication between two parties |
+| SQL Injection | Exploiting database vulnerabilities to read, modify, or delete data |
+| Zero-Day Vulnerabilities | Exploiting unknown software flaws with no available patch |
+| Data Breaches | Unauthorized access to sensitive personal or corporate data |
+| IoT Vulnerabilities | Exploiting weak security in smart devices like cameras and routers |
+| Unpatched Software | Exploiting known vulnerabilities in outdated software |
+| Rogue Access Points | Unauthorized Wi-Fi access points allowing network intrusion |
+
+---
+
+## Basic Security Terminologies & Important Cybersecurity Terms
+
+| Term | Meaning |
+|----|--------|
+| Vulnerability | A weakness in a system that can be exploited |
+| Exploit | A technique used to take advantage of a vulnerability |
+| Attack | An attempt to damage, disrupt, or gain unauthorized access |
+| Payload | The malicious code delivered during an attack |
+| Asset | Anything valuable to an organization such as data, systems, or people |
+| Asset Value | Importance or worth of an asset |
+| Hack Value | Benefit gained by an attacker from hacking |
+| Threat | A potential cause of harm to a system |
+| Risk | Probability of a threat exploiting a vulnerability |
+| Bot | An automated program performing tasks |
+| Botnet | A network of compromised devices controlled by an attacker |
+| Trojan | Malware disguised as legitimate software |
+| Daisy Chaining | Using access to one system to attack additional systems |
+| Personally Identifiable Information (PII) | Data that identifies a person such as name, Aadhaar, PAN, email, or phone number |
+| Doxing | Publicly revealing private or personal information of individuals |
+
+---
+
+## Impacts of Hacking
+
+### 1. Reputational Impact
+- Loss of trust
+- Damage to brand image
+
+### 2. Operational Impact
+- System downtime
+- Business disruption
+
+### 3. Financial Impact
+- Cost of repairs
+- Loss of revenue
+- Ransom payments
+
+### 4. Legal Impact
+- Lawsuits
+- Regulatory penalties
+- Compliance violations
+
+---
+---
