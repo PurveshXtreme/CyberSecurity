@@ -159,6 +159,8 @@ A healthcare organization encrypting patient records:
 - **Information Security** is a broader concept
 - **Cyber Security** is a subset of Information Security
 
+[⬆️ Jump to Table of Contents](#table-of-contents)
+
 ---
 ---
 
@@ -329,6 +331,8 @@ A healthcare organization encrypting patient records:
 
 </details>
 
+[⬆️ Jump to Table of Contents](#table-of-contents)
+
 ---
 ---
 
@@ -436,6 +440,9 @@ A **hacker** is a person who uses technical skills to:
 - Compliance violations
 
 ![Impacts of Hacking](img/impactsofhack.png)
+
+[⬆️ Jump to Table of Contents](#table-of-contents)
+
 
 ---
 ---
@@ -686,6 +693,9 @@ A **hacker** is a person who uses technical skills to:
 </details>
 
 </details>
+
+[⬆️ Jump to Table of Contents](#table-of-contents)
+
 
 ---
 ---
