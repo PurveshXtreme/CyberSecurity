@@ -699,3 +699,221 @@ A **hacker** is a person who uses technical skills to:
 
 ---
 ---
+
+## Elements of Information Security
+
+Information Security is built on multiple key elements that work together to protect information systems and data.
+
+---
+
+### 1. Confidentiality
+- Ensures that information is accessible **only to authorized users**
+- Prevents unauthorized disclosure of sensitive data
+
+**Techniques used:**
+- Encryption
+- Access control
+- Authentication mechanisms
+
+**Example:**  
+Only authorized employees can view customer financial records.
+
+---
+
+### 2. Authenticity
+- Ensures that the **identity of users and systems is genuine**
+- Confirms that data and communications come from a trusted source
+
+**Techniques used:**
+- Digital certificates
+- Authentication protocols
+- Digital signatures
+
+**Example:**  
+Verifying that an email is actually sent by the claimed sender.
+
+---
+
+### 3. Integrity
+- Ensures that information remains **accurate, complete, and unaltered**
+- Prevents unauthorized modification of data
+
+**Techniques used:**
+- Hashing
+- Checksums
+- Digital signatures
+
+**Example:**  
+Ensuring that transaction data is not modified during transmission.
+
+---
+
+### 4. Non-Repudiation
+- Ensures that a sender **cannot deny** sending a message or performing an action
+- Provides proof of origin and delivery
+
+**Techniques used:**
+- Digital signatures
+- Audit logs
+- Time-stamping
+
+**Example:**  
+A user cannot deny transferring money once the transaction is digitally signed.
+
+---
+
+### 5. Availability
+- Ensures that information and systems are **accessible when required**
+- Protects against system failures and service disruptions
+
+**Techniques used:**
+- Backups
+- Redundant systems
+- Load balancing
+- DDoS protection
+
+**Example:**  
+A banking website remains accessible even during peak usage.
+
+---
+
+## Summary of Elements
+
+- **Confidentiality** protects data from unauthorized access  
+- **Authenticity** verifies identity and source  
+- **Integrity** ensures data accuracy  
+- **Non-Repudiation** prevents denial of actions  
+- **Availability** ensures continuous access  
+
+---
+
+![Elements of Information Security](img/elementsofinfosec.png)
+
+[⬆️ Jump to Table of Contents](#table-of-contents)
+
+---
+---
+
+---
+
+## Practice MCQs – Elements of Information Security
+
+<details>
+<summary>📘 Show MCQs</summary>
+
+### Q1. Which element of information security ensures data is accessible only to authorized users?
+
+- Integrity  
+- Availability  
+- Confidentiality  
+- Non-Repudiation  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Confidentiality
+
+</details>
+
+---
+
+### Q2. Authenticity in information security ensures that:
+
+- Data is always available  
+- Data is not modified  
+- The identity of users and systems is genuine  
+- Actions cannot be denied  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** The identity of users and systems is genuine
+
+</details>
+
+---
+
+### Q3. Which element ensures that information remains accurate and unaltered?
+
+- Confidentiality  
+- Authenticity  
+- Integrity  
+- Availability  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Integrity
+
+</details>
+
+---
+
+### Q4. Digital signatures mainly provide which two security elements?
+
+- Confidentiality and Availability  
+- Integrity and Non-Repudiation  
+- Availability and Authenticity  
+- Confidentiality and Authenticity  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Integrity and Non-Repudiation
+
+</details>
+
+---
+
+### Q5. Non-repudiation ensures that:
+
+- Data is encrypted  
+- Systems are always online  
+- A sender cannot deny performing an action  
+- Data cannot be modified  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** A sender cannot deny performing an action
+
+</details>
+
+---
+
+### Q6. Which of the following is an example of ensuring availability?
+
+- Hashing data  
+- Digital signatures  
+- Regular system backups  
+- User authentication  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Regular system backups
+
+</details>
+
+---
+
+### Q7. Verifying that an email is sent by the claimed sender relates to which element?
+
+- Confidentiality  
+- Authenticity  
+- Integrity  
+- Availability  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Authenticity
+
+</details>
+
+</details>
+
+[⬆️ Jump to Table of Contents](#table-of-contents)
+
+---
+---
