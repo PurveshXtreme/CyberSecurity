@@ -49,10 +49,6 @@
 
 - [Practice MCQs – Elements of Information Security](#practice-mcqs--elements-of-information-security)
 
----
-
-
-
 
 ---
 ---
