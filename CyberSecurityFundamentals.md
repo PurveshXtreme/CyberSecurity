@@ -179,8 +179,6 @@ A healthcare organization encrypting patient records:
 ---
 ---
 
----
-
 ## Practice MCQs
 
 <details>
