@@ -174,7 +174,7 @@ A healthcare organization encrypting patient records:
 - **Information Security** is a broader concept
 - **Cyber Security** is a subset of Information Security
 
-🔝 [TOC](#table-of-contents)
+[⬆️ Jump to Table of Contents](#table-of-contents)
 
 
 
