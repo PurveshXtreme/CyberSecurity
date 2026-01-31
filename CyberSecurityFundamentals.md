@@ -1,3 +1,44 @@
+## Table of Contents
+
+- [Introduction to Information Security](#introduction-to-information-security)
+  <details>
+  <summary>Show subtopics</summary>
+
+  - [What is Information Security?](#what-is-information-security)
+  - [Core Objectives – CIA Triad](#core-objectives--cia-triad)
+    - [Confidentiality](#1-confidentiality)
+    - [Integrity](#2-integrity)
+    - [Availability](#3-availability)
+  - [Why is Information Security Important?](#why-is-information-security-important)
+  - [Information Security vs Cyber Security](#information-security-vs-cyber-security)
+
+  </details>
+
+- [Practice MCQs – Information Security](#practice-mcqs)
+
+---
+
+- [Hacking and Cyber Threats](#hacking-and-cyber-threats)
+  <details>
+  <summary>Show subtopics</summary>
+
+  - [What is Hacking?](#what-is-hacking)
+  - [Who is a Hacker?](#who-is-a-hacker)
+  - [Types of Hackers](#types-of-hackers)
+  - [Common Cyber Threats](#common-cyber-threats)
+  - [Basic Security Terminologies & Important Cybersecurity Terms](#basic-security-terminologies--important-cybersecurity-terms)
+  - [Impacts of Hacking](#impacts-of-hacking)
+
+  </details>
+
+- [Practice MCQs – Hacking and Cyber Threats](#practice-mcqs-1)
+
+
+---
+---
+---
+
+
 # Introduction to Information Security
 
 ## What is Information Security?
