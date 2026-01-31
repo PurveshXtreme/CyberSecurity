@@ -394,5 +394,7 @@ A **hacker** is a person who uses technical skills to:
 - Regulatory penalties
 - Compliance violations
 
+![Impacts of Hacking](img/impactsofhack.png)
+
 ---
 ---
