@@ -33,8 +33,27 @@
 
 - [Practice MCQs – Hacking and Cyber Threats](#practice-mcqs-1)
 
+---
+
+- [Elements of Information Security](#elements-of-information-security)
+  <details>
+  <summary>Show subtopics</summary>
+
+  - [Confidentiality](#1-confidentiality)
+  - [Authenticity](#2-authenticity)
+  - [Integrity](#3-integrity)
+  - [Non-Repudiation](#4-non-repudiation)
+  - [Availability](#5-availability)
+
+  </details>
+
+- [Practice MCQs – Elements of Information Security](#practice-mcqs--elements-of-information-security)
 
 ---
+
+
+
+
 ---
 ---
 
