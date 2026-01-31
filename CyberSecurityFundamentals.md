@@ -813,8 +813,6 @@ A banking website remains accessible even during peak usage.
 ---
 ---
 
----
-
 ## Practice MCQs – Elements of Information Security
 
 <details>
