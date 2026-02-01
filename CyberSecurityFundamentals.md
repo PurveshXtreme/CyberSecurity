@@ -49,6 +49,26 @@
 
 - [Practice MCQs – Elements of Information Security](#practice-mcqs--elements-of-information-security)
 
+---
+
+- [NIST Cybersecurity Framework](#nist-cybersecurity-framework-nist-csf)
+  <details>
+  <summary>Show subtopics</summary>
+
+  - [Purpose of NIST Cybersecurity Framework](#purpose-of-nist-cybersecurity-framework)
+  - [Core Functions of NIST Cybersecurity Framework](#core-functions-of-nist-cybersecurity-framework)
+    - [Identify](#1-identify)
+    - [Protect](#2-protect)
+    - [Detect](#3-detect)
+    - [Respond](#4-respond)
+    - [Recover](#5-recover)
+    - [Govern](#6-govern-new-function)
+  - [Summary of NIST CSF Functions](#summary-of-nist-csf-functions)
+  - [Key Benefits of NIST CSF](#key-benefits-of-nist-csf)
+
+  </details>
+
+- [Practice MCQs – NIST Cybersecurity Framework](#practice-mcqs--nist-cybersecurity-framework)
 
 ---
 ---
@@ -927,6 +947,325 @@ A banking website remains accessible even during peak usage.
 </details>
 
 [⬆️ Jump to Table of Contents](#table-of-contents)
+
+---
+---
+
+## NIST Cybersecurity Framework (NIST CSF)
+
+The **NIST Cybersecurity Framework (CSF)** is a set of guidelines, best practices, and standards developed by **NIST** to help organizations **manage and reduce cybersecurity risks**.
+
+It provides a **structured and systematic approach** to identifying, protecting, detecting, responding to, and recovering from cyber threats.
+
+---
+
+![NIST Cybersecurity Framework](img/nist-cybersecurity-framework.png)
+
+---
+
+## Purpose of NIST Cybersecurity Framework
+
+- Improve cybersecurity risk management
+- Protect critical infrastructure and information systems
+- Provide a common language for managing cybersecurity risk
+- Help organizations assess their current security posture
+- Guide organizations in building and improving security programs
+
+---
+
+## Core Functions of NIST Cybersecurity Framework
+
+The framework is built around **six core functions** that cover the complete cybersecurity lifecycle.
+
+---
+
+### 1. Identify
+**Purpose:**  
+Help determine the current cybersecurity risks to the organization.
+
+**Key activities:**
+- Asset management
+- Risk assessment
+- Business environment analysis
+- Governance and policies
+
+**Example:**  
+Identifying critical servers, data, and systems that need protection.
+
+---
+
+### 2. Protect
+**Purpose:**  
+Use safeguards to prevent or reduce the impact of cybersecurity incidents.
+
+**Key activities:**
+- Access control
+- Awareness and training
+- Data security
+- Protective technologies
+
+**Example:**  
+Implementing firewalls, encryption, and authentication mechanisms.
+
+---
+
+### 3. Detect
+**Purpose:**  
+Identify and analyze cybersecurity incidents in a timely manner.
+
+**Key activities:**
+- Continuous monitoring
+- Anomaly and event detection
+- Security logging
+
+**Example:**  
+Detecting suspicious login attempts using intrusion detection systems.
+
+---
+
+### 4. Respond
+**Purpose:**  
+Take action regarding detected cybersecurity incidents.
+
+**Key activities:**
+- Incident response planning
+- Communication
+- Mitigation actions
+- Analysis of incidents
+
+**Example:**  
+Isolating affected systems after detecting a malware attack.
+
+---
+
+### 5. Recover
+**Purpose:**  
+Restore systems and operations affected by a cybersecurity incident.
+
+**Key activities:**
+- Recovery planning
+- Improvements based on lessons learned
+- System restoration
+
+**Example:**  
+Restoring data from backups after a ransomware attack.
+
+---
+
+### 6. Govern (New Function)
+**Purpose:**  
+Establish and monitor the organization’s **cybersecurity risk management strategy, expectations, and policies**.
+
+**Key activities:**
+- Defining cybersecurity roles and responsibilities
+- Risk management strategy
+- Policy enforcement
+- Oversight and compliance
+
+**Example:**  
+Creating organization-wide cybersecurity policies and ensuring compliance.
+
+---
+
+## Summary of NIST CSF Functions
+
+| Function | Objective |
+|--------|-----------|
+| Identify | Understand cybersecurity risks |
+| Protect | Prevent or limit cybersecurity incidents |
+| Detect | Discover cybersecurity incidents |
+| Respond | Take action against incidents |
+| Recover | Restore operations after incidents |
+| Govern | Manage and oversee cybersecurity strategy |
+
+---
+
+## Key Benefits of NIST CSF
+
+- Flexible and adaptable for organizations of all sizes
+- Improves overall security posture
+- Encourages continuous improvement
+- Widely accepted and industry-recognized
+
+---
+
+![NIST Cybersecurity Framework](img/nistCSfw.png)
+
+---
+
+🔝 [TOC](#table-of-contents)
+
+---
+---
+
+---
+
+## Practice MCQs – NIST Cybersecurity Framework
+
+<details>
+<summary>📘 Show MCQs</summary>
+
+### Q1. What is the primary purpose of the NIST Cybersecurity Framework (CSF)?
+
+- To develop antivirus software  
+- To manage and reduce cybersecurity risk  
+- To replace all security standards  
+- To monitor employee productivity  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** To manage and reduce cybersecurity risk
+
+</details>
+
+---
+
+### Q2. How many core functions are defined in the NIST Cybersecurity Framework?
+
+- Four  
+- Five  
+- Six  
+- Seven  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Six
+
+</details>
+
+---
+
+### Q3. Which NIST CSF function focuses on understanding cybersecurity risks?
+
+- Protect  
+- Detect  
+- Identify  
+- Respond  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Identify
+
+</details>
+
+---
+
+### Q4. Which function involves implementing safeguards such as access control and encryption?
+
+- Identify  
+- Protect  
+- Detect  
+- Recover  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Protect
+
+</details>
+
+---
+
+### Q5. Detecting suspicious activities and security events falls under which function?
+
+- Identify  
+- Protect  
+- Detect  
+- Respond  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Detect
+
+</details>
+
+---
+
+### Q6. Taking action after a cybersecurity incident is detected belongs to which function?
+
+- Detect  
+- Respond  
+- Recover  
+- Govern  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Respond
+
+</details>
+
+---
+
+### Q7. Restoring systems and operations after an incident is the responsibility of:
+
+- Protect  
+- Respond  
+- Recover  
+- Identify  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Recover
+
+</details>
+
+---
+
+### Q8. Which NIST CSF function focuses on cybersecurity policies, strategy, and oversight?
+
+- Identify  
+- Govern  
+- Protect  
+- Detect  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Govern
+
+</details>
+
+---
+
+### Q9. Which of the following is an example of the Respond function?
+
+- Installing firewalls  
+- Performing regular backups  
+- Isolating infected systems  
+- Identifying critical assets  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Isolating infected systems
+
+</details>
+
+---
+
+### Q10. Which statement about the NIST Cybersecurity Framework is TRUE?
+
+- It is only for government organizations  
+- It focuses only on technical controls  
+- It supports continuous improvement in cybersecurity  
+- It replaces all other security standards  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** It supports continuous improvement in cybersecurity
+
+</details>
+
+</details>
+
+🔝 [TOC](#table-of-contents)
 
 ---
 ---
