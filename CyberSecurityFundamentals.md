@@ -71,7 +71,48 @@
 - [Practice MCQs – NIST Cybersecurity Framework](#practice-mcqs--nist-cybersecurity-framework)
 
 ---
+
+- [ISO/IEC 27001 Framework](#isoiec-27001-framework)
+  <details>
+  <summary>Show subtopics</summary>
+
+  - [Purpose of ISO/IEC 27001](#purpose-of-isoiec-27001)
+  - [Key Focus of ISO/IEC 27001](#key-focus-of-isoiec-27001)
+  - [Steps in Implementing ISO/IEC 27001 Framework](#steps-in-implementing-isoiec-27001-framework)
+    - [Define the Scope](#1-define-the-scope)
+    - [Conduct a Risk Assessment](#2-conduct-a-risk-assessment)
+    - [Develop Policies and Procedures](#3-develop-policies-and-procedures)
+    - [Implement Controls](#4-implement-controls)
+    - [Train Employees](#5-train-employees)
+    - [Monitor and Review](#6-monitor-and-review)
+
+  </details>
+
+- [Practice MCQs – ISO/IEC 27001 Framework](#practice-mcqs--isoiec-27001-framework)
+
 ---
+
+- [CIS Critical Security Controls (CIS CSC)](#cis-critical-security-controls-cis-csc)
+  <details>
+  <summary>Show subtopics</summary>
+
+  - [Purpose of CIS Critical Security Controls](#purpose-of-cis-critical-security-controls)
+  - [Key Characteristics of CIS CSC](#key-characteristics-of-cis-csc)
+  - [Structure of CIS Critical Security Controls](#structure-of-cis-critical-security-controls)
+    - [Group 1: Basic Controls (Foundational)](#group-1-basic-controls-foundational)
+    - [Group 2: Foundational Controls](#group-2-foundational-controls)
+    - [Group 3: Organizational Controls](#group-3-organizational-controls)
+  - [Benefits of CIS Critical Security Controls](#benefits-of-cis-critical-security-controls)
+  - [CIS CSC vs Other Frameworks (Brief)](#cis-csc-vs-other-frameworks-brief)
+
+  </details>
+
+- [Practice MCQs – CIS Critical Security Controls (CIS CSC)](#practice-mcqs--cis-critical-security-controls-cis-csc)
+
+
+---
+---
+
 
 
 # Introduction to Information Security
@@ -1257,6 +1298,548 @@ Creating organization-wide cybersecurity policies and ensuring compliance.
 <summary>See answer</summary>
 
 **Correct answer:** It supports continuous improvement in cybersecurity
+
+</details>
+
+</details>
+
+🔝 [TOC](#table-of-contents)
+
+---
+---
+
+## ISO/IEC 27001 Framework
+
+**ISO** – International Organization for Standardization  
+**IEC** – International Electrotechnical Commission  
+
+**ISO/IEC 27001** is an international standard that provides a framework for establishing, implementing, maintaining, and continually improving an **Information Security Management System (ISMS)**.
+
+Its primary goal is to protect information assets by ensuring:
+- Confidentiality
+- Integrity
+- Availability
+
+---
+![ISO/IEC 27001 Framework](img/isofw.png)
+---
+
+## Purpose of ISO/IEC 27001
+
+- Establish a systematic approach to information security
+- Identify, analyze, and manage information security risks
+- Protect sensitive organizational and customer data
+- Ensure compliance with legal and regulatory requirements
+- Build trust with customers, partners, and stakeholders
+
+---
+
+## Key Focus of ISO/IEC 27001
+
+- Risk-based information security management
+- Defined policies and procedures
+- Implementation of appropriate security controls
+- Continuous monitoring and improvement
+- Organization-wide responsibility for security
+
+---
+
+## Steps in Implementing ISO/IEC 27001 Framework
+
+### 1. Define the Scope
+- Determine the boundaries of the ISMS
+- Identify assets, processes, systems, and locations covered
+
+**Example:**  
+Defining whether ISMS applies only to IT systems or the entire organization.
+
+---
+
+### 2. Conduct a Risk Assessment
+- Identify potential threats and vulnerabilities
+- Analyze risks and their impact
+- Evaluate and prioritize risks
+
+**Example:**  
+Assessing risks related to data breaches or unauthorized access.
+
+---
+
+### 3. Develop Policies and Procedures
+- Create information security policies
+- Define roles, responsibilities, and operational procedures
+- Align security policies with business objectives
+
+**Examples:**  
+Password policy, access control policy, data classification policy.
+
+---
+
+### 4. Implement Controls
+- Apply controls to mitigate identified risks
+- Controls are selected from **ISO/IEC 27001 Annex A**
+
+**Examples of controls:**
+- Access control
+- Encryption
+- Physical security
+- Incident management
+
+---
+
+### 5. Train Employees
+- Educate employees about information security practices
+- Promote security awareness across the organization
+
+**Example:**  
+Training employees to recognize phishing emails and follow security policies.
+
+---
+
+### 6. Monitor and Review
+- Continuously monitor security controls
+- Perform internal audits
+- Review incidents and improve ISMS
+
+**Example:**  
+Reviewing audit results and updating security controls.
+
+---
+
+
+🔝 [TOC](#table-of-contents)
+
+---
+
+---
+
+## Practice MCQs – ISO/IEC 27001 Framework
+
+<details>
+<summary>📘 Show MCQs</summary>
+
+### Q1. What does ISO stand for?
+
+- International Security Organization  
+- International System Organization  
+- International Organization for Standardization  
+- International Standards Office  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** International Organization for Standardization
+
+</details>
+
+---
+
+### Q2. What does IEC stand for?
+
+- International Electronics Council  
+- International Electrotechnical Commission  
+- International Engineering Committee  
+- International Electrical Corporation  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** International Electrotechnical Commission
+
+</details>
+
+---
+
+### Q3. ISO/IEC 27001 primarily focuses on establishing:
+
+- Network Security Architecture  
+- Information Security Management System (ISMS)  
+- Cyber Incident Response Team  
+- Software Development Lifecycle  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Information Security Management System (ISMS)
+
+</details>
+
+---
+
+### Q4. What is the main objective of ISO/IEC 27001?
+
+- Increase system performance  
+- Protect information assets using a risk-based approach  
+- Eliminate all cyber attacks  
+- Replace other security standards  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Protect information assets using a risk-based approach
+
+</details>
+
+---
+
+### Q5. Which of the following is the FIRST step in implementing ISO/IEC 27001?
+
+- Conduct a risk assessment  
+- Implement security controls  
+- Define the scope  
+- Train employees  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Define the scope
+
+</details>
+
+---
+
+### Q6. Which step involves identifying threats, vulnerabilities, and impacts?
+
+- Define the scope  
+- Conduct a risk assessment  
+- Develop policies and procedures  
+- Monitor and review  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Conduct a risk assessment
+
+</details>
+
+---
+
+### Q7. From where are security controls selected in ISO/IEC 27001?
+
+- NIST CSF  
+- COBIT  
+- ISO/IEC 27001 Annex A  
+- ITIL  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** ISO/IEC 27001 Annex A
+
+</details>
+
+---
+
+### Q8. Which step ensures employees understand security policies and practices?
+
+- Implement controls  
+- Monitor and review  
+- Train employees  
+- Develop policies  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Train employees
+
+</details>
+
+---
+
+### Q9. Which activity helps ensure continuous improvement of ISMS?
+
+- Risk identification only  
+- Monitoring and reviewing controls  
+- Installing antivirus software  
+- Defining scope once  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Monitoring and reviewing controls
+
+</details>
+
+---
+
+### Q10. Which of the following is NOT a benefit of ISO/IEC 27001?
+
+- Improved security posture  
+- Reduced risk of data breaches  
+- Guaranteed immunity from cyber attacks  
+- Increased customer trust  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Guaranteed immunity from cyber attacks
+
+</details>
+
+</details>
+
+🔝 [TOC](#table-of-contents)
+
+---
+---
+
+## CIS Critical Security Controls (CIS CSC)
+
+The **CIS Critical Security Controls (CIS CSC)** are a prioritized set of best practices developed by the **Center for Internet Security (CIS)** to help organizations **protect systems and data from common cyber attacks**.
+
+These controls focus on **what works best** to stop the most widespread and dangerous attacks.
+
+---
+![CIS Critical Security Controls](img/ciscse.png)
+
+---
+
+## Purpose of CIS Critical Security Controls
+
+- Provide a prioritized and practical approach to cybersecurity
+- Help organizations defend against common cyber threats
+- Improve security posture with limited resources
+- Offer clear guidance for implementation
+- Support compliance with various security standards
+
+---
+
+## Key Characteristics of CIS CSC
+
+- Prioritized controls based on real-world attacks
+- Actionable and measurable
+- Technology-focused and operational
+- Applicable to organizations of all sizes
+- Continuously updated based on threat intelligence
+
+---
+
+## Structure of CIS Critical Security Controls
+
+The CIS CSC framework consists of **18 Critical Security Controls**, grouped into **three categories**.
+
+---
+
+### Group 1: Basic Controls (Foundational)
+These controls focus on **essential cyber hygiene**.
+
+Examples:
+- Inventory and control of enterprise assets
+- Inventory and control of software assets
+- Data protection
+- Secure configuration of systems
+
+---
+
+### Group 2: Foundational Controls
+These controls address **technical safeguards** to protect systems.
+
+Examples:
+- Access control management
+- Continuous vulnerability management
+- Audit log management
+- Malware defenses
+- Network monitoring
+
+---
+
+### Group 3: Organizational Controls
+These controls focus on **people, processes, and governance**.
+
+Examples:
+- Security awareness and skills training
+- Incident response management
+- Service provider management
+- Application software security
+
+---
+
+## Benefits of CIS Critical Security Controls
+
+- Reduces attack surface
+- Improves detection and response capabilities
+- Provides clear implementation roadmap
+- Enhances overall cyber resilience
+- Complements other frameworks like ISO 27001 and NIST CSF
+
+---
+
+## CIS CSC vs Other Frameworks (Brief)
+
+- **CIS CSC**: Practical, prioritized, action-oriented
+- **ISO/IEC 27001**: Management system and policies
+- **NIST CSF**: Risk-based and strategic framework
+
+CIS CSC focuses more on **“how to secure”**, while others focus on **“how to manage security.”**
+
+---
+
+🔝 [TOC](#table-of-contents)
+
+---
+
+---
+
+## Practice MCQs – CIS Critical Security Controls (CIS CSC)
+
+<details>
+<summary>📘 Show MCQs</summary>
+
+### Q1. What does CIS stand for?
+
+- Computer Information Security  
+- Center for Internet Security  
+- Cyber Infrastructure Standards  
+- Central Information System  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Center for Internet Security
+
+</details>
+
+---
+
+### Q2. The CIS Critical Security Controls mainly focus on:
+
+- Legal compliance  
+- Risk documentation  
+- Preventing common cyber attacks  
+- Software development  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Preventing common cyber attacks
+
+</details>
+
+---
+
+### Q3. How many Critical Security Controls are defined in CIS CSC?
+
+- 10  
+- 12  
+- 18  
+- 20  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** 18
+
+</details>
+
+---
+
+### Q4. Which characteristic best describes CIS CSC?
+
+- Policy-focused  
+- Prioritized and action-oriented  
+- Theoretical framework  
+- Limited to large organizations  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Prioritized and action-oriented
+
+</details>
+
+---
+
+### Q5. Inventory and control of enterprise assets belongs to which group of CIS controls?
+
+- Organizational Controls  
+- Foundational Controls  
+- Basic (Foundational) Controls  
+- Governance Controls  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Basic (Foundational) Controls
+
+</details>
+
+---
+
+### Q6. Which control group focuses on people, processes, and governance?
+
+- Basic Controls  
+- Technical Controls  
+- Organizational Controls  
+- Network Controls  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Organizational Controls
+
+</details>
+
+---
+
+### Q7. Which of the following is an example of a Foundational Control?
+
+- Security awareness training  
+- Incident response management  
+- Continuous vulnerability management  
+- Service provider management  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Continuous vulnerability management
+
+</details>
+
+---
+
+### Q8. CIS CSC is best described as focusing on:
+
+- “How to manage security”  
+- “How to secure systems”  
+- Legal risk assessment  
+- Compliance auditing  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** “How to secure systems”
+
+</details>
+
+---
+
+### Q9. Which framework is more management-system oriented compared to CIS CSC?
+
+- CIS CSC  
+- ISO/IEC 27001  
+- OWASP Top 10  
+- MITRE ATT&CK  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** ISO/IEC 27001
+
+</details>
+
+---
+
+### Q10. Which of the following is NOT a benefit of CIS Critical Security Controls?
+
+- Reduced attack surface  
+- Clear implementation guidance  
+- Guaranteed prevention of all cyber attacks  
+- Improved detection and response  
+
+<details>
+<summary>See answer</summary>
+
+**Correct answer:** Guaranteed prevention of all cyber attacks
 
 </details>
 
