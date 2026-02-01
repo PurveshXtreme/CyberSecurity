@@ -959,7 +959,8 @@ It provides a **structured and systematic approach** to identifying, protecting,
 
 ---
 
-![NIST Cybersecurity Framework](img/nist-cybersecurity-framework.png)
+![NIST Cybersecurity Framework](img/nistCSfw.png)
+
 
 ---
 
@@ -1086,10 +1087,6 @@ Creating organization-wide cybersecurity policies and ensuring compliance.
 - Improves overall security posture
 - Encourages continuous improvement
 - Widely accepted and industry-recognized
-
----
-
-![NIST Cybersecurity Framework](img/nistCSfw.png)
 
 ---
 
